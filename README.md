@@ -10,10 +10,11 @@ server.rb app requires:
 * puma: Web Server for Ruby `gem install puma`
 
 client.rb app requires:
-* openssl: Crypto library `gem install openssl`
 * http: For HTTP requests `gem install http`
+
+And both scripts require:
+* openssl: Crypto library `gem install openssl`
 
  > "I live with your mother, in a castle.
  > Sometimes I bring it thick, sometimes I bring it thin."  
  > — The Clown
- > 
